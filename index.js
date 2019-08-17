@@ -1,5 +1,3 @@
-/* eslint-disable linebreak-style */
-/* eslint-disable indent */
 class Message {
     constructor (text = '', created = Date.now()){
         this.text= text;
