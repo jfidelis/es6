@@ -4,10 +4,6 @@
         "import"
     ],
     "rules": {
-        "no-underscore-dangle": 0,
-        "no-console": 0,
-        "max-len": [
-            "error", 80
-        ]
+        "linebreak-style":"off"
     }
 }
