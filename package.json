@@ -8,7 +8,9 @@
     "lint": "eslint",
     "build": "NODE_ENV=development webpack",
     "build:prod": "webpack",
-    "nodemon": "nodemon"
+    "nodemon": "nodemon",
+    "serve": "webpack-dev-server",
+    "express": "node server.js"
   },
   "repository": {
     "type": "git",
